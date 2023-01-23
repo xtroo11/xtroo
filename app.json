@@ -11,27 +11,27 @@
     "website": "https://github.com/perdark/per-sed",
     "env": {
         "APP_ID": {
-            "description": "25806748",
+            "description": "ايبي ايدي",
             "value": "",
             "required": true
         },
         "APP_HASH": {
-            "description": "a8dfb1fe80e8002bcf60b4b207ba1521",
+            "description": "ايبي هاش",
             "value": "",
             "required": true
         },
         "TERMUX": {
-            "1BJWap1sBu6MdAV9X0Mvq5ghdSb62BereMMapPTrF8w6oZy6itweUrF0CWH4Lai1E15xZjREauaoJ2ZK_Vz1zAwBYjpj5LAWK1b3S-b0YobsPAEqaKUUbSJT2Xzc0BqHWi7etaxhoRuNM3mD1L5AwQQv6wf889NTzo85QbSpe6DGoc9LcVeBYT--9YkslhLEEunWbjF8L4qHHEm4HvXjYetXYiXYj5GSKBlMF9NUx9UjGISndU2ZPQoBXiEbcYnEOTJo3kyvrGD2IuhjWiDgOiENz3Zx2iLxZ4hUI0dT2Z2g6eEikYkVlY1eGNTTkgNIwIC-hheM_VkrkLxbSbkGeMf5jf8q9BH4=",
+            "description": "كود تيرمكس",
             "value": "",
             "required": true
         },
         "TOKEN": {
-            "description": "5801753315:AAFAOdr5AVCra4uUikHcfXyZraminWHw79U",
+            "description": "توكن االبوت",
             "value": "",
             "required": true
         },
         "BOT_USERNAME": {
-            "description": "ghggjbot",
+            "description": "يوزر البوت بدون ـ@ـ",
             "value": "",
             "required": true
         }
